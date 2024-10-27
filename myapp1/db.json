@@ -1,0 +1,169 @@
+{
+  "product": [
+    {
+      "id": "b58e"
+    },
+    {
+      "id": "4585",
+      "name": "Laptop",
+      "Price": "",
+      "Category": "electronics"
+    },
+    {
+      "id": "b87b",
+      "name": "Laptop",
+      "Price": "57",
+      "Category": "electronics"
+    },
+    {
+      "id": "5d5a",
+      "name": "laptop",
+      "Price": "66",
+      "Category": "electronics"
+    },
+    {
+      "id": "4388",
+      "name": "bread",
+      "Price": "57",
+      "Category": ""
+    },
+    {
+      "id": "ada7",
+      "name": "bread",
+      "Price": "57",
+      "Category": ""
+    },
+    {
+      "id": "0e17",
+      "name": "bread",
+      "Price": "57",
+      "Category": "electronics"
+    },
+    {
+      "id": "3085",
+      "name": "tronani",
+      "Price": "80",
+      "Category": "grocery"
+    },
+    {
+      "id": "47c6",
+      "name": "Animesh Kumar",
+      "Price": "60",
+      "Category": "grocery"
+    },
+    {
+      "id": "1d3f",
+      "name": "Animesh Kumar",
+      "Price": "60",
+      "Category": "grocery"
+    },
+    {
+      "id": "6fda",
+      "name": "Animesh Kumar",
+      "Price": "62",
+      "Category": "grocery",
+      "Photo": "C:\\fakepath\\IMG_20210305_102205-min (3).png"
+    },
+    {
+      "id": "2c74",
+      "name": "",
+      "Price": "62",
+      "Category": "grocery",
+      "Photo": "C:\\fakepath\\IMG_20210305_102205-min (3).png"
+    },
+    {
+      "id": "deca",
+      "name": "",
+      "Price": "0",
+      "Category": "grocery",
+      "Photo": ""
+    },
+    {
+      "id": "755e",
+      "name": "sdfas",
+      "Price": "74",
+      "Category": "electronics",
+      "Photo": ""
+    },
+    {
+      "id": "b137",
+      "name": "sdfas",
+      "Price": "74",
+      "Category": "electronics",
+      "Photo": ""
+    },
+    {
+      "id": "e9c7",
+      "name": "dfg",
+      "Price": "71",
+      "Category": "grocery",
+      "Photo": ""
+    },
+    {
+      "id": "35d8",
+      "name": "dfg",
+      "Price": "71",
+      "Category": "grocery",
+      "Photo": ""
+    },
+    {
+      "id": "038f",
+      "name": "dfgdsfas",
+      "Price": "71",
+      "Category": "clothes",
+      "Photo": ""
+    },
+    {
+      "id": "9289",
+      "name": "",
+      "Price": "76",
+      "Category": "grocery",
+      "Photo": null
+    },
+    {
+      "id": "2ce7",
+      "name": "sdf",
+      "Price": "0",
+      "Category": "grocery",
+      "Photo": {}
+    },
+    {
+      "id": "e735",
+      "name": "",
+      "Price": "0",
+      "Category": "grocery",
+      "Photo": {}
+    },
+    {
+      "id": "e1a7",
+      "name": "d",
+      "Price": "61",
+      "Category": "grocery",
+      "Photo": null
+    },
+    {
+      "id": "0370",
+      "name": "d",
+      "Price": "61",
+      "Category": "grocery",
+      "Photo": null
+    },
+    {
+      "id": "98c3",
+      "name": "d",
+      "Price": "61",
+      "Category": "grocery",
+      "Photo": null
+    }
+  ],
+  "loginCred": [
+    {
+      "id": "8748"
+    },
+    {
+      "id": "eddb",
+      "email": "animeshkumar6515@gmail.com",
+      "Password": "pass"
+    }
+  ]
+}
